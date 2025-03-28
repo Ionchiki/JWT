@@ -1,6 +1,6 @@
 Как запустить проект
 
-Клонируйте репозиторий:
+Склонируйте репозиторий:
    ```bash
    git clone https://github.com/Alpha-x-prog/task5.git
    cd task5
